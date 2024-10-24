@@ -40,4 +40,4 @@ Need a passionate computer science student specialize in back-end web developmen
   <img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="200">
 </details>
 
-<br>Have questions, need advice, or just want to say "Hi 👋"? Feel free to reach out via email. I'll respond as quickly as possible! 😊
+Have questions, need advice, or just want to say "Hi 👋"? Feel free to reach out via email. I'll respond as quickly as possible! 😊
