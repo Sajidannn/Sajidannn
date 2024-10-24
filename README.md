@@ -23,7 +23,7 @@ I'm a passionate computer science student with a deep interest in web applicatio
 
 ## 📈 Github Stats
 
-| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidannn&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="sajidannn's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidannn&langs_count=8&layout=compact&hide_border=true&theme=tokyonight&count_private=false" alt="sajidannn's Most Used Language"> |
+| <img align="center" width="320px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sajidannn&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="sajidannn's GitHub Stats"> | <img align="center" width="295px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sajidannn&langs_count=6&layout=compact&hide_border=true&theme=tokyonight&count_private=false" alt="sajidannn's Most Used Language"> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=sajidannn&hide_border=true&theme=tokyonight">
