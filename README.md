@@ -2,7 +2,7 @@
 
 <img align='right' src="https://art.pixilart.com/sr2712ab0b35ecd.gif" width="190">
 
-![version: 19.05.2024](https://img.shields.io/badge/version-19.05.2024-green)&nbsp;
+![version: 19.05.2024](https://img.shields.io/badge/version-08.05.2024-green)&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=sajidannn&style=flat&label=visitors&color=red)&nbsp;
 [![GitHub: sajidannn](https://img.shields.io/github/followers/sajidannn?label=follow&style=social&color=green)](https://github.com/sajidannn)&nbsp;
 
